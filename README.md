@@ -1,8 +1,9 @@
 # python-api-challenge
 
-## Data Analytics and Visualization Bootcamp 
+# Data Analytics and Visualization Bootcamp 
 
-Module 6 - Part 1 - Python APIs (Vacation API - Hotel locations)
+
+## Module 6 - Part 1 - Python APIs (Vacation API - Hotel locations)
 
 Student Name: Thet Win
 
@@ -17,9 +18,7 @@ The program then produces a visual of the locations of the hotels on a map.
 
 
 
-## Data Analytics and Visualization Bootcamp 
-
-Module 6 - Part 2 - Python APIs (Weather API - Mesurements by Latitude)
+## Module 6 - Part 2 - Python APIs (Weather API - Mesurements by Latitude)
 
 Student Name: Thet Win
 
